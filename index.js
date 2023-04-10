@@ -42,6 +42,6 @@ newImage('assets/tree.png', 330, 435)
 newImage('assets/tree.png', 360, 410)
 
 newItem('assets/sword.png', 500, 405)
-newItem('assets/shield.png', 165, 185)
+newItem('assets/sheild.png', 165, 185)
 newItem('assets/staff.png', 600, 100)
 
